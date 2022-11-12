@@ -1,0 +1,31 @@
+{
+    "id": "fe-roll-tables",
+    "title": "FE Roll Tables",
+    "description": "A Collection of Roll Tables", 
+       "authors": [
+      {
+      "name": "Fumble Effects"
+      }
+      ],
+      "packs": [
+       
+        {
+            "name": "fe-roll-tables",
+            "label": "FE Roll Tables",
+            "type": "RollTable",
+            "path": "packs/fe-roll-tables.db",
+            "entity": "RollTable",
+            "module": "fe-roll-tables"
+        }
+    ],
+    
+    "manifest": "https://github.com/runeweaver67/fe-roll-tables/releases/download/V2.0.0/module.json",
+    "download": "https://github.com/runeweaver67/fe-roll-tables/releases/download/V2.0.0/fe.roll.tables.zip",
+    "url": "https://github.com/runeweaver67/fe-roll-tables.git",
+
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10.290"
+    }
+  }
